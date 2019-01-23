@@ -3,6 +3,7 @@
 <h2> Technical Skills </h2>
 
 <details><summary>Github</summary>
+  </details>
 <details><summary>Linux</summary>
 <details><summary>A</summary>
 <details><summary>B</summary>
