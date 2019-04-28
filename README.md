@@ -3,7 +3,7 @@
 <h2> Technical Skills </h2>
 
 <details><summary>Github</summary>
-  I completed several Github courses
+  I completed the following courses in the <a href="https://lab.github.com/courses">GitHub Learning Lab</a>.
   <h4>Courses:</h4>
 <ul>
 <li>Introduction to GitHub</li>
@@ -19,6 +19,9 @@
 <li>Securing your workflows</li>
 <li>Create a release based workflow</li>
 </ul>
+  <br>
+<img src="Github.png" alt="Github">
+<br>
   </details>
 <details><summary>Linux</summary>
   </details>
