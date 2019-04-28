@@ -6,7 +6,7 @@
   </details>
 <details><summary>Linux</summary>
   </details>
-<details><summary>A</summary>
+<details><summary>PowerBi</summary>
   </details>
-<details><summary>B</summary>
+<details><summary>AWS</summary>
   </details>
