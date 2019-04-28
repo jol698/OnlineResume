@@ -20,7 +20,7 @@
 <li>Create a release based workflow</li>
 </ul>
   <br>
-<img src="Github.png" alt="Github">
+<img src="Github.PNG">
 <br>
   </details>
 <details><summary>Linux</summary>
