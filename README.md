@@ -49,6 +49,17 @@
 <img src="Linux.PNG">
   </details>
 <details><summary>PowerBi</summary>
+  <ul>
+<li>Power BI Desktop Data Transformations</li>
+<li>Power BI Desktop Modelling</li>
+<li>Power BI Desktop Visualization</li>
+<li>Power BI Service</li>
+<li>Working with Excel</li>
+<li>Direct Connectivity</li>
+<li>Developer API</li>
+<li>Mobile App</li>
+</ul>
+  <img src="PowerBI Comp.png">
   </details>
 <details><summary>AWS</summary>
   </details>
