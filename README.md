@@ -59,7 +59,7 @@
 <li>Developer API</li>
 <li>Mobile App</li>
 </ul>
-  <img src="PowerBI Comp.png">
+  <img src="PowerBI Comp.PNG">
   </details>
 <details><summary>AWS</summary>
   </details>
