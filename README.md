@@ -50,6 +50,7 @@
   </details>
 <details><summary>PowerBi</summary>
   <ul>
+    I auditted the <a href="https://www.edx.org/course/analyzing-and-visualizing-data-with-power-bi-0">Analyzing and Visualizing Data with Power BI</a> course on edX and completed the following courses.
 <li>Power BI Desktop Data Transformations</li>
 <li>Power BI Desktop Modelling</li>
 <li>Power BI Desktop Visualization</li>
