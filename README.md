@@ -24,6 +24,29 @@
 <br>
   </details>
 <details><summary>Linux</summary>
+  I completed the LPI Linux Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>.
+  <h4>Topics:</h4>
+<ul>
+<li>The Linux Community and a Career in Open Source</li>
+<li>Linux Evolution and Popular Operating Systems</li>
+<li>How to Access a Linux Installation</li>
+<li>Major Open Source Applications</li>  
+<li>Understanding Open Source Software and Licensing</li> 
+<li>ICT Skills and Working in Linux</li>
+<li>Command Line Basics</li> 
+<li>Using Directories and Listing Files</li> 
+<li>Archiving Files on the Command Line</li> 
+<li>Searching and Extracting Data from Files</li> 
+<li>Turning Commands into a Script</li>
+<li>The Linux Operating System</li>
+<li>Security and File Permissions</li>
+<li>Basic Security and Identifying User Groups</li>
+<li>Creating Users and Groups</li> 
+<li>Managing File Permissions and Ownership</li> 
+<li>Special Directories and Files</li> 
+</ul>
+  LPI Linux Essentials Course Completion Certificate:
+<img src="Linux.PNG">
   </details>
 <details><summary>PowerBi</summary>
   </details>
