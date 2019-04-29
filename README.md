@@ -63,4 +63,24 @@
   <img src="PowerBI Comp.PNG">
   </details>
 <details><summary>AWS</summary>
+  I completed the AWS Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>.
+  <ul>
+  <li>AWS Essentials</li>
+  <li>Managing AWS Access with Users, Groups, and Roles</li>
+  <li>Identity and Access Management (IAM)</li>
+  <li>Networking Services and Connectivity</li>
+  <li>Virtual Private Cloud (VPC)</li>
+  <li>Compute Services</li>
+  <li>Elastic Cloud Compute (EC2)</li>
+  <li>Storage Services</li>
+  <li>Database Services</li>
+  <li>Monitoring, Alerts, and Notifications</li>
+  <li>Simple Notification Service (SNS)</li>
+  <li>Load Balancing, Elasticity, and Scalability</li>
+  <li>Elastic Load Balancer (ELB)</li>
+  <li>Auto Scaling</li>
+  <li>Route 53</li>
+  <li>Serverless Computing - Lambda</li>
+    <img src="AWS.PNG"/>
+</ul>
   </details>
