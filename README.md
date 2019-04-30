@@ -59,7 +59,10 @@
 <li>Direct Connectivity</li>
 <li>Developer API</li>
 <li>Mobile App</li>
+    <br></br>
+  
 <li>This is a link showing me explaining a PowerBI dashboard I made https://youtu.be/OKkpN1zA2yI </li>
+<img src="PowerBIDashboard.PNG">
 </ul>
   <img src="PowerBI Comp.PNG">
   </details>
