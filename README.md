@@ -59,12 +59,12 @@
 <li>Direct Connectivity</li>
 <li>Developer API</li>
 <li>Mobile App</li>
+  <img src="PowerBI Comp.PNG">
     <br></br>
   
 <li>This is a link showing me explaining a PowerBI dashboard I made https://youtu.be/OKkpN1zA2yI </li>
 <img src="PowerBIDashboard.PNG">
 </ul>
-  <img src="PowerBI Comp.PNG">
   </details>
 <details><summary>AWS</summary>
   I completed the AWS Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>.
